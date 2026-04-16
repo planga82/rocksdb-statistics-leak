@@ -1,0 +1,16 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# jemalloc heap dumps
+/tmp/jeprof*/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
